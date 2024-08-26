@@ -4,3 +4,4 @@ bs4
 chroma
 langchain_community
 langchain_experimental
+langchain_openai
