@@ -5,3 +5,4 @@ chroma
 langchain_community
 langchain_experimental
 langchain_openai
+chromadb
